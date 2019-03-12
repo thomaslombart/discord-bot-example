@@ -1,6 +1,6 @@
 # Discord bot example
 
-Read [this article](https://codewiththomlom.now.sh/create-a-discord-bot-under-15-minutes/) to fully understand what this is about :smiley:
+Read [this article](https://medium.freecodecamp.org/how-to-create-a-discord-bot-under-15-minutes-fb2fd0083844) to fully understand what this is about :smiley:
 
 ## Getting started
 
